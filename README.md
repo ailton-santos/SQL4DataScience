@@ -1,1 +1,1 @@
-# SQL4DataScience
+# SQL for Data Science
